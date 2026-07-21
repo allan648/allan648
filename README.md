@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,vue,react,tailwind,nodejs,express,mysql,postgres,mongodb,git,vscode,docker,figma&perline=7" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,vue,vite,pinia,tailwind,nodejs,express,mysql,supabase,html,css,git,vscode&perline=7" alt="My Skills" />
   </a>
 </div>
 
